@@ -1,13 +1,13 @@
 
 # === SMART Mailer ===
 
-Contributors: SMartGuyCodes
-Tags: email, mail, smtp, phpmailer
-Requires at least: 6.4
-Tested up to: 6.4
-Stable tag: 1.0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    - Contributors: SMartGuyCodes
+    - Tags: email, mail, smtp, phpmailer
+    - Requires at least: 6.4
+    - Tested up to wordpress version: 6.4
+    - Stable tag: 1.0.1
+    - License: GPLv2 or later
+    - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Configure a SMTP server to send email from your WordPress site. Configure the wp_mail() function to use SMTP instead of the PHP mail() function.
 
